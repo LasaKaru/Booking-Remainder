@@ -113,3 +113,4 @@ function convertAndCapitalize(string input) returns string {
 
     return result;
 }
+
